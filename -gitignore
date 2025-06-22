@@ -1,0 +1,21 @@
+# Ignora archivos compilados
+*.class
+
+# Ignora directorios de compilación
+/bin/
+/build/
+
+# Ignora archivos del IDE
+*.iml
+.idea/
+*.log
+
+# Ignora dependencias de Maven o Gradle si son descargadas localmente
+/.mvn/
+/target/
+/.gradle/
+/out/
+
+# Otros comunes
+.DS_Store
+.env
