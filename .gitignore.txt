@@ -1,0 +1,5 @@
+Variables de entorno: .env, config.php
+
+Archivos de sesión: sesión con BD local
+
+IDE: vscode, netBeans
